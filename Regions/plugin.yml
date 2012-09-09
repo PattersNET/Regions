@@ -1,0 +1,14 @@
+name: Regions
+main: net.patters.regions.Regions
+version: 1.0
+author: Patters
+
+commands:
+    rcreate:
+         description: rcreate command
+    rdelete:
+         description: rdelete command
+    rinfo:
+         description: rinfo command
+    rlist:
+         description: rlist command
